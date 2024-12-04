@@ -78,7 +78,7 @@ h2 {
     color: #555;
     text-align: center;
     line-height: 1.5;
-    padding: 0 45px;
+    padding: 0 20%;
 
     p {
       font-size: 0.8rem;
@@ -310,7 +310,7 @@ li:nth-child(3) {
 
       li{
         list-style: none;
-        padding-left: 45px;
+        padding:0 45px;
       }
     }
 
